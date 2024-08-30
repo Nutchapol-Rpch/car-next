@@ -32,7 +32,7 @@ export default function Home() {
                         <tr>
                             <td colSpan="2">
                                 <input type="submit" value="Calculate"
-                             /></td>
+                            /></td>
                         </tr>
                         <tr>
                             <td><label>VAT:</label></td>
